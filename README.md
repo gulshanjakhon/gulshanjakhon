@@ -23,7 +23,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulshanjakhon" alt="gulshanjakhon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gjakhon" target="blank"><img src="https://img.shields.io/twitter/follow/gjakhon?logo=twitter&style=for-the-badge" alt="gjakhon" /></a> </p>
-<p>Badges :</p>
+
+<h3 align="left">Badges :</h3>
+
 [![@gulshan_jakhon_'s Holopin board](https://holopin.io/api/user/board?user=gulshan_jakhon_)](https://holopin.io/@gulshan_jakhon_)
 
 <h3 align="left">Connect with me:</h3>
