@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gulshan Jakhon</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <!-- <h3 align="center">Frontend developer💻</h3> -->
 
+![Black Modern Personal Banner](https://github.com/gulshanjakhon/gulshanjakhon/assets/72978519/25071d94-04ad-4a55-84cc-897974d06e42)
 
 - 🔭 I’m currently working on **Image Enhancement**
 
